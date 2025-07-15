@@ -1,0 +1,16 @@
+dependencies: \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/build/Intermediates/ExplicitPrecompiledModules/Foundation-4CXWH3KQIR3YC7Q9T3W8O2C42.pcm \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/build/Products/Debug-iphonesimulator/TitaniumKit.framework/Modules/module.modulemap \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/XLite_Prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/os_availability.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/Classes/ThirdpartyNS.h \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/Classes/TiMediaMusicPlayer.m \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/Classes/TiMediaMusicPlayer.h \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/Classes/TiMediaItem.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/MediaPlayer.framework/Modules/module.modulemap \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/Classes/MediaModule.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/PhotosUI.framework/Modules/module.modulemap \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/Classes/TiMediaAudioSession.h \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/Classes/TiMediaTypes.h

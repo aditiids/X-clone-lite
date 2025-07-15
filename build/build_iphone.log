@@ -1,0 +1,24 @@
+
+7/15/2025, 6:04:39 PM
+
+Operating System
+  Name                        = macOS
+  Version                     = 15.5
+  Architecture                = 64-bit
+  # CPUs                      = 8
+  Memory                      = 17179869184
+
+Node.js
+  Node.js Version             = 20.19.0
+  npm Version                 = 10.8.2
+
+Titanium CLI
+  CLI Version                 = 7.1.7
+
+Titanium SDK
+  SDK Version                 = 12.7.1.GA
+  SDK Path                    = /Users/aditisuryawanshi/Library/Application Support/Titanium/mobilesdk/osx/12.7.1.GA
+  Target Platform             = iphone
+
+Command
+  /Users/aditisuryawanshi/.nvm/versions/node/v20.19.0/bin/node /Users/aditisuryawanshi/.nvm/versions/node/v20.19.0/bin/ti build -p ios -T simulator --device-id C37EA6CC-7D99-4821-9DCB-6C50087D901E --liveview

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aditisuryawanshi/vscode/Unique Schools/XLite/build/iphone/build/Products/Debug-iphonesimulator/XLite.app/XLite'
+relocations:     []
+...

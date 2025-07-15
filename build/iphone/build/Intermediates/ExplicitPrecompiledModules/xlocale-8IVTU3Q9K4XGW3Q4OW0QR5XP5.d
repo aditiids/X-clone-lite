@@ -1,0 +1,11 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/DarwinBasic.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/_xlocale.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/usr/include/DarwinFoundation.modulemap \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/build/Intermediates/ExplicitPrecompiledModules/os_availability_internal-C5EU013QU4P8AM2ZXS9ZCRP99.pcm \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/build/Intermediates/ExplicitPrecompiledModules/os_availability-5B5P7V57PAHLFW2TG3AF0Q9LO.pcm \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/build/Intermediates/ExplicitPrecompiledModules/_Builtin_stddef-743LB1MJF386B8F9A48T410ML.pcm \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/build/Intermediates/ExplicitPrecompiledModules/_Builtin_stdarg-6W0UM3UP64WXW985G0ILR7RV2.pcm \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/build/Intermediates/ExplicitPrecompiledModules/DarwinFoundation-2KZ7SZ7V7Q6ZW31ZQC9XPENK0.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/usr/include/c_standard_library.modulemap \
+  /Users/aditisuryawanshi/vscode/Unique\ Schools/XLite/build/iphone/build/Intermediates/ExplicitPrecompiledModules/_locale-90BL1GB2J3EGYL6QF3VBL4E40.pcm
