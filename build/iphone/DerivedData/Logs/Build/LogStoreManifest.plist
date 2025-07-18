@@ -5,6 +5,91 @@
 	<key>logFormatVersion</key>
 	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>95A45D0E-2478-4159-B4BA-8B56980C8BB2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95A45D0E-2478-4159-B4BA-8B56980C8BB2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>20</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>XLite project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XLite</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project XLite with scheme XLite and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>774517703.18905604</real>
+			<key>timeStoppedRecording</key>
+			<real>774517708.56895602</real>
+			<key>title</key>
+			<string>Building project XLite with scheme XLite and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>95A45D0E-2478-4159-B4BA-8B56980C8BB2</string>
+		</dict>
+		<key>B8F3D81E-24A0-4B98-8A7E-711A328027E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B8F3D81E-24A0-4B98-8A7E-711A328027E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>24</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>XLite project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XLite</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project XLite with scheme XLite and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>774529659.31320298</real>
+			<key>timeStoppedRecording</key>
+			<real>774529665.76223695</real>
+			<key>title</key>
+			<string>Building project XLite with scheme XLite and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B8F3D81E-24A0-4B98-8A7E-711A328027E6</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

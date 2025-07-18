@@ -27,6 +27,18 @@ static NSString * const ACImageNameAssetsImagesXNew AC_SWIFT_PRIVATE = @"assets/
 /// The "assets/images/X_neww" asset catalog image resource.
 static NSString * const ACImageNameAssetsImagesXNeww AC_SWIFT_PRIVATE = @"assets/images/X_neww";
 
+/// The "assets/images/home" asset catalog image resource.
+static NSString * const ACImageNameAssetsImagesHome AC_SWIFT_PRIVATE = @"assets/images/home";
+
+/// The "assets/images/messages" asset catalog image resource.
+static NSString * const ACImageNameAssetsImagesMessages AC_SWIFT_PRIVATE = @"assets/images/messages";
+
+/// The "assets/images/notification" asset catalog image resource.
+static NSString * const ACImageNameAssetsImagesNotification AC_SWIFT_PRIVATE = @"assets/images/notification";
+
+/// The "assets/images/search" asset catalog image resource.
+static NSString * const ACImageNameAssetsImagesSearch AC_SWIFT_PRIVATE = @"assets/images/search";
+
 /// The "assets/images/tab1" asset catalog image resource.
 static NSString * const ACImageNameAssetsImagesTab1 AC_SWIFT_PRIVATE = @"assets/images/tab1";
 

@@ -3702,13 +3702,11 @@
 		},
 		"DefaultIcon.png": {
 			"hash": "92d9fb5d60373377b02297b653db844a",
-			"mtime": "2025-07-15T12:27:09.704Z",
-			"size": 65256
+			"mtime": false
 		},
 		"LaunchLogo.png": {
 			"hash": "92d9fb5d60373377b02297b653db844a",
-			"mtime": "2025-07-15T12:27:09.704Z",
-			"size": 65256
+			"mtime": false
 		},
 		"Classes/ApplicationRouting.m": {
 			"hash": "a10696ad08ec9df20f49c716c157951b",

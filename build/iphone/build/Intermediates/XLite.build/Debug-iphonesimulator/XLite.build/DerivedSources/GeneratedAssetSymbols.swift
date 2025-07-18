@@ -55,6 +55,18 @@ extension ImageResource {
             /// The "assets/images/X_neww" asset catalog image resource.
             static let xNeww = ImageResource(name: "assets/images/X_neww", bundle: resourceBundle)
 
+            /// The "assets/images/home" asset catalog image resource.
+            static let home = ImageResource(name: "assets/images/home", bundle: resourceBundle)
+
+            /// The "assets/images/messages" asset catalog image resource.
+            static let messages = ImageResource(name: "assets/images/messages", bundle: resourceBundle)
+
+            /// The "assets/images/notification" asset catalog image resource.
+            static let notification = ImageResource(name: "assets/images/notification", bundle: resourceBundle)
+
+            /// The "assets/images/search" asset catalog image resource.
+            static let search = ImageResource(name: "assets/images/search", bundle: resourceBundle)
+
             /// The "assets/images/tab1" asset catalog image resource.
             static let tab1 = ImageResource(name: "assets/images/tab1", bundle: resourceBundle)
 

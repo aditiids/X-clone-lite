@@ -71,6 +71,46 @@
 			<key>catalogPath</key>
 			<string>/Users/aditisuryawanshi/vscode/Unique Schools/XLite/build/iphone/Assets.xcassets</string>
 			<key>objcSymbol</key>
+			<string>ACImageNameHome</string>
+			<key>relativePath</key>
+			<string>./assets/images/home.imageset</string>
+			<key>swiftSymbol</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aditisuryawanshi/vscode/Unique Schools/XLite/build/iphone/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameMessages</string>
+			<key>relativePath</key>
+			<string>./assets/images/messages.imageset</string>
+			<key>swiftSymbol</key>
+			<string>messages</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aditisuryawanshi/vscode/Unique Schools/XLite/build/iphone/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameNotification</string>
+			<key>relativePath</key>
+			<string>./assets/images/notification.imageset</string>
+			<key>swiftSymbol</key>
+			<string>notification</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aditisuryawanshi/vscode/Unique Schools/XLite/build/iphone/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameSearch</string>
+			<key>relativePath</key>
+			<string>./assets/images/search.imageset</string>
+			<key>swiftSymbol</key>
+			<string>search</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aditisuryawanshi/vscode/Unique Schools/XLite/build/iphone/Assets.xcassets</string>
+			<key>objcSymbol</key>
 			<string>ACImageNameTab1</string>
 			<key>relativePath</key>
 			<string>./assets/images/tab1.imageset</string>

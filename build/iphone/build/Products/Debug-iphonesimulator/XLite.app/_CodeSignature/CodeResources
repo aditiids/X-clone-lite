@@ -6,7 +6,7 @@
 	<dict>
 		<key>.liveviewapp.js</key>
 		<data>
-		ztMmzu8rkY4a85QlbYAp5R+E8Lc=
+		pao8H+1aCRZhXeTlwYmFIz0ZDaI=
 		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		GDAH0YBU7HXCm5ckvb6svF6b9Mw=
+		EwKShqzOQ9j4DDvwa4bsJSquWi8=
 		</data>
 		<key>Frameworks/TitaniumKit.framework/Info.plist</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>XLite.debug.dylib</key>
 		<data>
-		SbnxRaswprRA+QfANigNwXgcqpY=
+		rc7UFcX93qTp4RilNgFYN8MNzAc=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
@@ -106,15 +106,19 @@
 		</data>
 		<key>_env_.json</key>
 		<data>
-		gY8aqvorndt9+0rKuXmU2pYCa8E=
+		3kIkTxji4AKpUcwbod18Yiw7jhg=
 		</data>
 		<key>_index_.json</key>
 		<data>
-		TN2hUQ4Y6tsXwMMZLJrB1GnUl4k=
+		3pH8FpQubygQPGV7Y63uLknofHc=
 		</data>
 		<key>app.js</key>
 		<data>
 		VWZyGcMajQnsjsuRYstOqXe5BqI=
+		</data>
+		<key>controllers/app/homeController.js</key>
+		<data>
+		xOPEuXKh3UaYLyG0PUU1PdjHbJI=
 		</data>
 		<key>controllers/auth/login.js</key>
 		<data>
@@ -136,6 +140,14 @@
 		<data>
 		qFZQWTjxx8DjvTCqIeXVhk5b2lk=
 		</data>
+		<key>services/postService.js</key>
+		<data>
+		0ELMs5LxGkjQuep5HMQyAUih4f4=
+		</data>
+		<key>services/userService.js</key>
+		<data>
+		hQmUS6hWm/EnSwNzNIott9ojTvA=
+		</data>
 		<key>ti.internal/bootstrap.json</key>
 		<data>
 		eIsKJOwV8WPRrTAaRjsCfKsvCc4=
@@ -148,13 +160,25 @@
 		<data>
 		FLVVP1KtEWYhHIa5Nwe9lLqyOk8=
 		</data>
-		<key>views/auth/homeView.js</key>
+		<key>views/app/homeView.js</key>
 		<data>
-		rmfpkW4/aqp7DiMlNW0EDHRV5FQ=
+		zkOQWa4nv/J2zsZclf99s+5wnBs=
+		</data>
+		<key>views/app/tweetDetailView.js</key>
+		<data>
+		HwoR0i3jX94dG0KkUdG3YQdFAfo=
+		</data>
+		<key>views/auth/forgotPasswordView.js</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
 		<key>views/auth/loginView.js</key>
 		<data>
-		VCmXJr9rLjDc70NVe0wQjVgNuAQ=
+		oLL5qJWbD9J9zOiXghk79Udy13Y=
+		</data>
+		<key>views/auth/signUpView.js</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -163,7 +187,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EnM3uJmTc6V0UA5jZFeKCEyZgro3h3cq1AxMUDWayeM=
+			fsLiXVyrHYWl5SahEufMkQs3JG4wfWTfKC0h1vtx0TA=
 			</data>
 		</dict>
 		<key>AppIcon60x60@2x.png</key>
@@ -177,7 +201,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I6Hi9w7SGrqN4kbA4kbysvBhYTyn4wYvWJ+8YDwucHU=
+			yIhVbkZLHx5gJwe/WvnOVbrgTtP77PZVwfN82YW382Q=
 			</data>
 		</dict>
 		<key>Frameworks/TitaniumKit.framework/Info.plist</key>
@@ -303,7 +327,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ziQSlkT3jmHcMJggUta/QDx+qhmKi6hSna6mmpkwcrQ=
+			n5WqmLdGcZ0jL9hFupzIUgNWQYvDWgxtGaP27nLBM1k=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>
@@ -324,14 +348,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kHqSfcz6JZ3XzeFTJS+trf80aHW4eAGQGzQHSE4lgRo=
+			nLHKa6VYRoWutWZ/ymC+l6xpj0UKnutRelHHkiDbmWk=
 			</data>
 		</dict>
 		<key>_index_.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6lhAEeopra58klv9w48odfNaIu///xKDR/TDNuyTvUc=
+			611OKcZ8fikV8Ln1lnDekApZS9aXmaHZtXN8LnCCBmk=
 			</data>
 		</dict>
 		<key>app.js</key>
@@ -339,6 +363,13 @@
 			<key>hash2</key>
 			<data>
 			0oXfD8dSlb2AHQUPoveqmyd3GLWhytNbuvNcKQHq6D4=
+			</data>
+		</dict>
+		<key>controllers/app/homeController.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dGrh57Z5eABqblKrhx45kM1RmUUTVyPKb3bdw6398XY=
 			</data>
 		</dict>
 		<key>controllers/auth/login.js</key>
@@ -376,6 +407,20 @@
 			aw6abhBqKS9xL+l4Vn60lG1CTEaXzHGe3AiJIjbzSxs=
 			</data>
 		</dict>
+		<key>services/postService.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oAo8wWtv1zjhnKrfOjQGiXoZvvXzeTaGXrkvLATk64k=
+			</data>
+		</dict>
+		<key>services/userService.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OZ/534nfo85OLSqQZHqnWy9mMqy0QC3hL0DmtK2tW2I=
+			</data>
+		</dict>
 		<key>ti.internal/bootstrap.json</key>
 		<dict>
 			<key>hash2</key>
@@ -397,18 +442,39 @@
 			KC7QTDllyFTUa3nh6VxU6iB0/8vEsvCPIMx2DXxrX2Q=
 			</data>
 		</dict>
-		<key>views/auth/homeView.js</key>
+		<key>views/app/homeView.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			49D8ILtoBweQknI6sbP3SMu1YVGln4xgFMbyCydj5YE=
+			kqQCzUam99fGPf8oPwO4pLpAzoV6zhTWG9xdVTk2pEk=
+			</data>
+		</dict>
+		<key>views/app/tweetDetailView.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TmvhdvlpdKmZNTf3GhRVqDgJwqjIWeg0pRjwslGetpw=
+			</data>
+		</dict>
+		<key>views/auth/forgotPasswordView.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 		<key>views/auth/loginView.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nQp6L5ouA0SR7RzoPrW4SCH1ojmDdPlcFwEjwJL3ZFQ=
+			PW5BfxSPW5Dv6uRp1uOE4kFtBQbJUuN5OypJulOnNN4=
+			</data>
+		</dict>
+		<key>views/auth/signUpView.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 	</dict>

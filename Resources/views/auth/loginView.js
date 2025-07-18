@@ -1,4 +1,4 @@
-const createHomeView = require('/views/auth/homeView');
+const createHomeView = require('/views/app/homeView');
 
 const VALID_USERNAME = 'aditiids';
 const VALID_PASSWORD = 'nasalove';
